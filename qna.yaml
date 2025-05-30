@@ -1,0 +1,86 @@
+version: 3
+domain: miscellaneous_unknown
+created_by: sandervanvugt
+seed_examples:
+  - context: |
+      Living Open Source Foundation (LOSF) is a non-profit organization by Zambian law. It was started by Zambian Santos Chibenga and Sander van Vugt from the Netherlands in 2018, and formalized as a Zambian legal entity in 2024. The mission statement of Living Open Source Foundation is to foster the growth and use of open source in Africa.  
+    questions_and_answers:
+      - question: |
+          What is Living Open Source Foundation?
+        answer: |
+          Living Open Source Foundation is a non-profit organization by Zambian law.
+      - question: |
+          Who started Living Open Source Fondation?
+        answer: |
+          LOSF was started by Santos Chibenga and Sander van Vugt.
+      - question: |
+          What is the mission of Living Open Source Foundation?
+        answer: |
+          The mission is to foster the growth and use of open source in Africa.
+  - context: |
+      Living Open Source Foundation provides education to different audiences in African countries and beyond. For those who cannot afford it, knowledge is provided for free. For professionals and companies who can afford it, training courses are provided for a reasonable price according to the local markets. For international (non-African) participants, the knowledge is available as well, and international attendees can attend courses by becoming an international member.  
+    questions_and_answers:
+      - question: |
+          What does Living Open Source Foundation do as a main activity?
+        answer: |
+          Living Open Source Foundation provides education to different audiences in African countries and beyond.
+      - question: |
+          Can Living Open Source Foundation help people who cannot afford to pay?
+        answer: |
+          For those who cannot afford it, knowledge is provide for free.
+      - question: |
+          Can people from non-African countries participate?
+        answer: |
+          International attendees can attend courses by becoming an international member.
+  - context: |
+      Living Open Source Foundation depends on sponsors. An important sponsor is Linux Foundation. Linux Foundation provides courseware as well as exam vouchers for free, allowing participants to get certified in key open source technologies. Common certificates obtained by the LOSU students, include Linux Foundation Certified Associate (LFCA), Linux Foundation Certified System Administrator (LFCSA), Kubernetes Certified Associate (KCNA), Certified Kubernetes Application Developer (CKAD) and Certified Kubernetes Administrator (CKA).  
+    questions_and_answers:
+      - question: |
+          Which organization is a main sponsor for Living Open Source Foundation?
+        answer: |
+          Linux Foundation is an important sponsor of Living Open Source Foundation.
+      - question: |
+          What does Linux Foundation provide?
+        answer: |
+          Linux Foundation provides courseware as well as exam vouchers.
+      - question: |
+          What are common certificates obtained by LOSU students?
+        answer:
+          Commonly obtained certificates include LFCA, LFCS, KCNA, CKAD and CKA.
+  - context: |
+      LOSF has established itself as a knowledge hub, where organizations from African countries can find expertise in open source technologies. The knowledge hub is seated in Lusaka, the capital of Zambia. Currently, the expertise is used by different governmental organizations, schools and banks. These are organizations where computers play a large role in the business model. Many mid-size and smaller companies don’t use computers, and for that reason aren’t using the services of living open source foundation a lot. 
+    questions_and_answers:
+      - question: |
+          Where is the LOSF knowledge hub seated?
+        answer: |
+          The Living Open Source Foundation knowledge hub is seated in Lusaka.
+      - question: |
+          What type of organizations are the main customers for the knowledge hub?
+        answer: |
+          Currently, the knowledge hub is mainly used by government organizations and banks.
+      - question: |
+          Why aren't small and mid-size companies using the knowledge hub a lot?
+        answer: |
+          Small and mid-zie organizations aren't using the knowledge hub services a lot, as these organizations often don't use computers.
+  - context: |
+      Daily management of LOSF is done by Santos Chibenga from Lusaka. Santos is helped by co-founder Sander van Vugt, the self-appointed benevolent dictator for live (SABDFL) - inspired by Ubuntu Canonical’s Mark Shuttleworth. Bill Sangiwa is involved as independent advisor. He has no formal role in LOSF, but his advise is always appreciated for important questions. All management members are doing their work without being compensated. 
+    questions_and_answers:
+      - question: |
+          Who is doing daily management of Living Open Source Foundation?
+        answer: |
+          LOSF daily management is done by Santos Chibenga.
+      - question: |
+          What is a SABDFL?
+        answer: |
+          A SABDFL is a Self Appointed Benevolent Dictator for Live, inspired by Ubuntu's Mark Shuttleworth.
+      - question: |
+          What is the role of Bill Sangiwa in LOSF?
+        answer: |
+          Bill Sangiwa is involved as an independent advisor.
+document_outline: |
+  Information about Living Open Source Foundation, a Zambian non-profit orgnization.
+document:
+  repo: https://github.com/sandervanvugt/livingopensourcefoundation.
+  commit: 5c905653c52b088bfd0364885bb213176c5955fe
+  patterns:
+    - netherlands.md
