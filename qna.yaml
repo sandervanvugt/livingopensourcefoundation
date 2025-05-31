@@ -83,4 +83,4 @@ document:
   repo: https://github.com/sandervanvugt/livingopensourcefoundation
   commit: 6817ff4acd8a809f4f65322054eec59d38ba9785
   patterns:
-    - losf.pdf
+    - losf.md
