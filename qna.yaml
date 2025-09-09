@@ -81,6 +81,6 @@ document_outline: |
   Information about Living Open Source Foundation, a Zambian non-profit orgnization.
 document:
   repo: https://github.com/sandervanvugt/livingopensourcefoundation
-  commit: 6817ff4acd8a809f4f65322054eec59d38ba9785
+  commit: 56f1dcc6318f5cb08db4ed46fd8002b46d7a4173
   patterns:
     - losf.md
